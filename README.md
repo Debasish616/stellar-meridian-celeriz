@@ -1,7 +1,3 @@
-Here’s the updated **README.md** file for CeleriZ, reflecting the fact that it is not open-source:
-
----
-
 # CeleriZ
 
 CeleriZ is a modern cross-border payments platform that allows users to send and receive money seamlessly across countries. Built with a focus on user experience, security, and low transaction fees, CeleriZ uses **Swift** for the iOS app and **Stellar Blockchain** for fast, low-cost backend transactions.
