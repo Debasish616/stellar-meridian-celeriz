@@ -91,7 +91,7 @@ async function addSigner(req, res) {
     res.status(200).json({ transactionXDR });
   } catch (error) {
     console.error("Error adding signer:", error);
-    res.status(500).json({ error: "Failed to add signer" });
+    res.status(500).json({ error: "Failed to add signer." });
   }
 }
 
